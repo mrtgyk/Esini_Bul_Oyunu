@@ -1,5 +1,4 @@
-# Esini_Bul_Oyunu
+# About Mathing-Game
 
 
-Bu projede Android tabanlı bir oyun geliştirilmiştir. Bir tür hafıza etkinliği olarak tanımlanan bu oyunda 12 adet farklı resimin
-her bir çiftinin en az hata ile bulunması amaçlanmaktadır.
+In this project an Android based game was developed. In this game, which is defined as a kind of memory activity, it is aimed that each pair of 12 different pictures will be found with the least error.
